@@ -12,9 +12,7 @@ body{
     justify-content: center;
     background-color: black;
 }
-.song {
-    visibility: hidden;
-}
+
 .greetings{
     font-size: 6rem;
     font-weight: 900;
